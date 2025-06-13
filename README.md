@@ -1,4 +1,5 @@
 # Demo
 
 Hello World!
-Hello Everyone!
+
+This is a CLI test
